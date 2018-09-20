@@ -16,10 +16,10 @@ We meet on Tuesdays at 6pm, room 4510 (Netlab), Abertay University.
 Planned Meetings for 2018:
 ---
 *These could change at any point...*
-September 18th - Things I Wish I'd Known
-September 25th - Git / Version Control Workshop
-October 2nd - Interview Questions && Intro to [Hacktober](https://hacktoberfest.digitalocean.com/)
-October 9th - Hacktober Workshop
+* September 18th - Things I Wish I'd Known
+* September 25th - Git / Version Control Workshop
+* October 2nd - Interview Questions && Intro to [Hacktober](https://hacktoberfest.digitalocean.com/)
+* October 9th - Hacktober Workshop
 ... TBD ...
 
 
