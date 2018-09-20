@@ -26,7 +26,9 @@ Planned Meetings for 2018:
 
 *2018/19 Committee*
 -------
-[President - Andrew Calder](https://github.com/AR-Calder) 
+[President - Andrew Calder](https://github.com/AR-Calder)
+
+
 [Treasurer - Gayan Jayasekera](https://github.com/BGSJayasekera)
 
 [LOGO]: logo.png
